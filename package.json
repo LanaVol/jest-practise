@@ -1,0 +1,27 @@
+{
+  "name": "jest-practise",
+  "version": "1.0.0",
+  "description": "practise with jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanaVol/jest-practise.git"
+  },
+  "keywords": [
+    "jest",
+    "javascript",
+    "test"
+  ],
+  "author": "svolosh4yk@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LanaVol/jest-practise/issues"
+  },
+  "homepage": "https://github.com/LanaVol/jest-practise#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
